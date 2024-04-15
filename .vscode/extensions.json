@@ -1,0 +1,4 @@
+{
+    "recommendations": ["deepscan.vscode-deepscan", "GitHub.vscode-codeql", "aaron-bond.better-comments", "usernamehw.errorlens"],
+    "unwantedRecommendations": []
+  }
